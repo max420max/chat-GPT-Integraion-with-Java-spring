@@ -9,6 +9,7 @@
 * Start it as Spring Boot application.
 * For chatting with ChatGPT: http://localhost:8080/
 * For drawing images with DALL-E: http://localhost:8080/image
+* if you want to change the port, you can explictly define in application.property
 
 ## Setup proxy
 If you need a proxy to communicate with Internet (ChatGPT API is in Internet), adapt ChatGptController.java like this:
@@ -17,5 +18,3 @@ If you need a proxy to communicate with Internet (ChatGPT API is in Internet), a
 
 ## More information
 * OpenAI API documentation: https://beta.openai.com/docs/api-reference/completions/create
-* Visit Elmar Brauch's German blog to read in general about Spring & Java:
-https://agile-coding.blogspot.com
