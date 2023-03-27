@@ -1,5 +1,5 @@
 # ChatGPT API used with Java & Spring
-
+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
 ## How to get it running
 * Clone this GIT project.
 * Make sure it is a Maven project and Maven is executed to load dependencies.
